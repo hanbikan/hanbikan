@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hanbit-Kang's solved.ac stats](https://github-readme-solvedac.Hanbit-Kang.vercel.app/api/?handle=fchopinof99)
 
 <!--
 **Hanbit-Kang/Hanbit-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
