@@ -1,5 +1,5 @@
 ### 👋 About Me
-- 세종대학교 컴퓨터공학과 3학년(2018~) / 99년생 / 군필
+- 세종대학교 컴퓨터공학과 3학년(2018~)
 - ✉️ Email | fchopinof99@gmail.com
 - 🐈‍⬛ Github | https://github.com/Hanbit-Kang
 - ✏️  Blog | https://rccode.tistory.com
@@ -12,12 +12,12 @@
 
 
 ### 기술 블로그 | https://rccode.tistory.com
-- **[[Kotlin] Android Offline Caching Using Room](https://rccode.tistory.com/292)**
-- **[[Kotlin] ViewPager2에 custom indicator 적용하기(without TabLayout)](https://rccode.tistory.com/291)**
-- **[[Kotlin] Custom Bottom Navigation With Animation](https://rccode.tistory.com/289)**
-- **[[Kotlin] 멀티 뷰타입을 지원하는 Recycler View 구현](https://rccode.tistory.com/285)**
-- **[[Kotlin] Recycler View Animation Using Custom Layout Manager](https://rccode.tistory.com/275)**
-- **[[Kotlin] Carousel RecyclerView With PagerSnapHelper](https://rccode.tistory.com/245)**
+- **[Android Offline Caching Using Room](https://rccode.tistory.com/292)**
+- **[ViewPager2에 custom indicator 적용하기(without TabLayout)](https://rccode.tistory.com/291)**
+- **[Custom Bottom Navigation With Animation](https://rccode.tistory.com/289)**
+- **[멀티 뷰타입을 지원하는 Recycler View 구현](https://rccode.tistory.com/285)**
+- **[Recycler View Animation Using Custom Layout Manager](https://rccode.tistory.com/275)**
+- **[Carousel RecyclerView With PagerSnapHelper](https://rccode.tistory.com/245)**
 
 ### 기타
 
