@@ -1,22 +1,32 @@
-## 👋 About Me
-<img src="https://img.shields.io/badge/email-fchopinof99%40gmail.com-%23EA4335"/> <img src="https://img.shields.io/badge/blog-rccode.tistory.com-%2334495e"/>
+### 👋 About Me
+- 세종대학교 컴퓨터공학과 3학년(2018~) / 99년생 / 군필
+- ✉️ Email | fchopinof99@gmail.com
+- 🐈‍⬛ Github | https://github.com/Hanbit-Kang
+- ✏️  Blog | https://rccode.tistory.com
 
-## 🛠 Technical Skills
-### Strong at:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🤖 Android Skills
 
-### Recently used:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 기술 키워드: Custom UI, MVVM, Multi Module, Clean Architecture, Hilt, Jetpack Navigation, DataStore, Room, Glide, LiveData
+- API: Kakao Map, Kakao Login, Kakao Message, Google FCM
+- 관심사: Jetpack Compose, Coroutine, Design Pattern, Flow, Test Code, OOP, CI/CD(by gitlab)
 
-### Knowledgeable:
-GameMaker, VB6.0, AHK, Assembly, TS, React JS, MySQL
 
-## 📊 Problem Solving
+### 기술 블로그 | https://rccode.tistory.com
+- **[[Kotlin] Android Offline Caching Using Room](https://rccode.tistory.com/292)**
+- **[[Kotlin] ViewPager2에 custom indicator 적용하기(without TabLayout)](https://rccode.tistory.com/291)**
+- **[[Kotlin] Custom Bottom Navigation With Animation](https://rccode.tistory.com/289)**
+- **[[Kotlin] 멀티 뷰타입을 지원하는 Recycler View 구현](https://rccode.tistory.com/285)**
+- **[[Kotlin] Recycler View Animation Using Custom Layout Manager](https://rccode.tistory.com/275)**
+- **[[Kotlin] Carousel RecyclerView With PagerSnapHelper](https://rccode.tistory.com/245)**
+
+### 기타
+
+- Python을 이용하여 알고리즘 문제 풀이를 합니다.
 ![Hanbit-Kang's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fchopinof99)
+- Github, Gitlab, Jira, Notion
+- Photoshop, Figma, Zeplin, Adobe Xd
 
 <!--
-**Hanbit-Kang/Hanbit-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
