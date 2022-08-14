@@ -8,7 +8,7 @@
 
 - 기술 키워드: Custom UI, MVVM, Multi Module, Clean Architecture, Hilt, Jetpack Navigation, DataStore, Room, Glide, LiveData
 - API: Kakao Map, Kakao Login, Kakao Message, Google FCM
-- 관심사: Jetpack Compose, Coroutine, Design Pattern, Flow, Test Code, OOP, CI/CD(by gitlab)
+- 관심사: Jetpack Compose, Coroutine, Design Pattern, Flow, Test Code, OOP, CI/CD(gitlab)
 
 
 ### 기술 블로그 | https://rccode.tistory.com
@@ -16,15 +16,14 @@
 - **[ViewPager2에 custom indicator 적용하기(without TabLayout)](https://rccode.tistory.com/291)**
 - **[Custom Bottom Navigation With Animation](https://rccode.tistory.com/289)**
 - **[멀티 뷰타입을 지원하는 Recycler View 구현](https://rccode.tistory.com/285)**
-- **[Recycler View Animation Using Custom Layout Manager](https://rccode.tistory.com/275)**
-- **[Carousel RecyclerView With PagerSnapHelper](https://rccode.tistory.com/245)**
+- **[Recycler View Animation Using Custom Layout Manager](https://rccode.tistory.com/275)**\
 
 ### 기타
 
 - Python을 이용하여 알고리즘 문제 풀이를 합니다.
 ![Hanbit-Kang's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fchopinof99)
-- Github, Gitlab, Jira, Notion
-- Photoshop, Figma, Zeplin, Adobe Xd
+- 협업 도구: Github, Gitlab, Jira, Notion
+- 디자인 도구: Photoshop, Figma, Zeplin, Adobe Xd
 
 <!--
 Here are some ideas to get you started:
