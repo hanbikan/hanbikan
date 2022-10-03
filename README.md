@@ -8,7 +8,7 @@
 - SW마에스트로 13기(2022.06~)
 
 ### 🤖 Android
-**[Notion 페이지](https://spangled-floss-ca8.notion.site/Android-Developer-0738db28af9d465fb2d559c31e8d6486)에서 자세한 내용을 다룹니다 :)**
+**[>>Notion 페이지<<](https://spangled-floss-ca8.notion.site/Android-Developer-0738db28af9d465fb2d559c31e8d6486)에서 자세한 내용을 다룹니다 :)**
 
 ### 기타
 - Python을 이용하여 알고리즘 문제 풀이를 합니다.
