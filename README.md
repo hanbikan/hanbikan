@@ -13,5 +13,3 @@
 ### 기타
 - Python을 이용하여 알고리즘 문제 풀이를 합니다.
 ![Hanbit-Kang's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fchopinof99)
-- 협업 도구: Github, Gitlab, Jira, Notion
-- 디자인 도구: Photoshop, Figma, Zeplin, Adobe Xd
