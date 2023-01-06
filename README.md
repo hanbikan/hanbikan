@@ -1,7 +1,7 @@
 ### 👋 About Me
 - ✉️ Email | fchopinof99@gmail.com
-- 🐈 Github | https://github.com/Hanbit-Kang
 - ✏️  Blog | https://rccode.tistory.com
+- 🔗 LinkedIn | https://www.linkedin.com/in/han-bit-kang-038b44210
 
 ### 💻 Experience
 - 세종대학교 컴퓨터공학과 3학년(2018.03~)
