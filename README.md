@@ -12,4 +12,5 @@
 
 ### 기타
 - Python을 이용하여 알고리즘 문제 풀이를 합니다.
-![Hanbit-Kang's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fchopinof99)
+
+[![hanbikan's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99)
