@@ -8,7 +8,7 @@
 - SW마에스트로 13기(2022.06~2022.11)
 
 ### 🤖 Android
-[Portfolio](https://spangled-floss-ca8.notion.site/ffab0202d4764e748bcc9098630f31b6), [Resume](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV.pdf)
+[Portfolio](https://spangled-floss-ca8.notion.site/ffab0202d4764e748bcc9098630f31b6), Resume([ko](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV_kr.pdf), [en](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV_en.pdf))
 
 ### 기타
 - Python을 이용하여 알고리즘 문제 풀이를 합니다.
