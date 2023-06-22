@@ -1,6 +1,6 @@
 ### About Me
 [Portfolio](https://spangled-floss-ca8.notion.site/ffab0202d4764e748bcc9098630f31b6), Resume([ko](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV_kr.pdf), [en](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV_en.pdf))
-- Email | fchopinof99@gmail.com
+- Email | hanbit.kang0@gmail.com
 - Blog | https://rccode.tistory.com
 - LinkedIn | https://www.linkedin.com/in/han-bit-kang-038b44210
 
