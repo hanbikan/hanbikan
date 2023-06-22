@@ -7,6 +7,6 @@
 
 ### Experiences
 - Bachelor Degree of Computer Science, Sejong University, Undergraduate (2018.02~2024.08)
-- SW Maestro 13th (2022.06~2022.11)
+- SW Maestro 13th, Ministry of Science and ICT (2022.06~2022.11)
 
 [![hanbikan's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99)
