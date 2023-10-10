@@ -1,5 +1,5 @@
 ## Hi, I'm Hanbit Kang
-I'm an android developer interested in Clean Code, Kotlin, Jetpack Compose. I aspire to make an impact on the world through my code.
+I'm an Android developer interested in Clean Code, Kotlin, Jetpack Compose.
 
 ### Experiences
 - Bachelor Degree of Computer Science, Sejong University, Undergraduate (2018.02~2024.08)
