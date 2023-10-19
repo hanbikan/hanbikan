@@ -11,7 +11,7 @@ Check out [📝Portfolio](https://spangled-floss-ca8.notion.site/ffab0202d4764e7
 ### Contact Me
 - Email: hanbit.kang0@gmail.com
 - Blog: https://rccode.tistory.com
-- LinkedIn: https://www.linkedin.com/in/han-bit-kang-038b44210
+- LinkedIn: https://www.linkedin.com/in/hanbit-kang-038b44210
 
 ### ETC
 [![hanbikan's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99)
