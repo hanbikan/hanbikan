@@ -1,6 +1,3 @@
-## Hi, I'm Hanbit Kang
-I'm an Android developer interested in Jetpack Compose, Kotlin, Clean Code.
-
 ### Experiences
 - Android Developer Intern, kakaobrain (2023.06~2023.08)
 - Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.06~2022.11)
