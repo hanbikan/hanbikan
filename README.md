@@ -1,5 +1,8 @@
 ## Hi, I'm Hanbit Kang
-I'm an Android developer interested in Jetpack Compose, Kotlin.
+I'm an Android developer interested in Jetpack Compose, Kotlin, Clean Architecture.
+
+[![Portfolio(KR)](https://img.shields.io/badge/Portfolio(KR)-F9F871?style=flat&logo=Notion&logoColor=black)](https://spangled-floss-ca8.notion.site/ffab0202d4764e748bcc9098630f31b6) [![resume(KR)](https://img.shields.io/badge/Resume(KR)-CBF47B?style=flat&logo=readme&logoColor=black)](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV_kr.pdf) [![Resume(EN)](https://img.shields.io/badge/Resume(EN)-9FED8B?style=flat&logo=readme&logoColor=black)](https://github.com/hanbikan/resume/blob/main/Hanbit-Kang_CV_en.pdf) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanbikan&count_bg=%230064FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Experiences
 - Android Developer Intern, kakaobrain (2023.06~2023.08)
@@ -10,8 +13,3 @@ I'm an Android developer interested in Jetpack Compose, Kotlin.
 - Email: hanbit.kang0@gmail.com
 - Blog: https://rccode.tistory.com
 - LinkedIn: https://www.linkedin.com/in/hanbit-kang-038b44210
-
-### ETC
-- [Portfolio(KR)](https://spangled-floss-ca8.notion.site/ffab0202d4764e748bcc9098630f31b6)
-
-[![hanbikan's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99)
