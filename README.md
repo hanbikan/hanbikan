@@ -2,7 +2,7 @@
 I'm an Android developer interested in Jetpack Compose, Kotlin, Clean Architecture.
 
 [![Portfolio(KR)](https://img.shields.io/badge/Portfolio(KR)-F9F871?style=flat&logo=Notion&logoColor=black)](https://spangled-floss-ca8.notion.site/ffab0202d4764e748bcc9098630f31b6) [![resume(KR)](https://img.shields.io/badge/Resume(KR)-CBF47B?style=flat&logo=readme&logoColor=black)](https://docs.google.com/document/d/1YnUXEgy6WpCY2IQ2IlYsbS7_FNMpYD2z5r_qmbxk1to/edit?usp=sharing) [![Resume(EN)](https://img.shields.io/badge/Resume(EN)-9FED8B?style=flat&logo=readme&logoColor=black)](https://docs.google.com/document/d/1eBMsC3AGTRewHD54TBfdyS9gkYHksKwkOrWoDG4mRoA/edit?usp=sharing) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanbikan&count_bg=%230064FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99)
 
 ### Experiences
 - Android Developer Intern, kakaobrain (2023.06~2023.08)
