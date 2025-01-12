@@ -5,9 +5,10 @@ I'm a software engineer striving to live a meaningful life.
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fchopinof99)](https://solved.ac/fchopinof99)
 
 ### Experiences
-- Android Developer Intern, kakaobrain (2023.06~2023.08)
-- Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.06~2022.11)
-- Bachelor of Computer Science and Engineering, Sejong University (2018.02~2024.08)
+- Software Engineer, Koscom (2025.01 - Present)
+- Android Developer Intern, kakaobrain (2023.06 - 2023.08)
+- Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.06 - 2022.11)
+- Bachelor of Computer Science and Engineering, Sejong University (2018.02 - 2024.08)
 
 ### Contact Me
 - Email: hanbit.kang0@gmail.com
